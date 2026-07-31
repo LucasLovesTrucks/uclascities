@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "uclascities",
+	"version": "${version}",
+	"name": "Uclas' City Mod",
+	"description": "Mod that adds Australian styled city blocks! P.S its my first mod dont judge me :>",
+	"authors": [
+		"Uclas"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/uclascities/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.uclas.uclascities.UclasCityMod"
+		],
+		"client": [
+			"net.uclas.uclascities.UclasCityModClient"
+		],
+		"fabric-datagen": [
+			"net.uclas.uclascities.UclasCityModDataGenerator"
+		]
+	},
+	"mixins": [
+		"uclascities.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
