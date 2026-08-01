@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
 
+import net.uclas.uclascities.block.ModBlocks;
 import net.uclas.uclascities.item.ModItemGroups;
 import net.uclas.uclascities.item.ModItems;
 import org.slf4j.Logger;
@@ -16,6 +17,8 @@ public class UclasCityMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

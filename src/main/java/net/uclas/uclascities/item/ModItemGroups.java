@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.uclas.uclascities.UclasCityMod;
+import net.uclas.uclascities.block.ModBlocks;
 
 public class ModItemGroups {
     public static final ItemGroup CITY_GROUP = Registry.register(Registries.ITEM_GROUP, new Identifier(UclasCityMod.MOD_ID, "city"),
@@ -15,7 +16,8 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.LOGO)).entries((displayContext, entries) -> {
                         entries.add(ModItems.LOGO);
 
-
+                        entries.add(ModBlocks.FOOTPATH);
+                        entries.add(ModBlocks.CRACKED_FOOTPATH);
 
 
                     }).build());

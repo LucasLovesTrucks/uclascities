@@ -1,4 +1,8 @@
 {
   "item.uclascities.logo": "Mod Logo",
+
+  "block.uclascities.footpath": "Footpath",
+  "block.uclascities.cracked_footpath": "Cracked Footpath",
+
   "itemgroup.city": "Uclas' City Mod"
 }
