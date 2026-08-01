@@ -18,6 +18,10 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.FOOTPATH);
                         entries.add(ModBlocks.CRACKED_FOOTPATH);
+                        entries.add(ModBlocks.GANTRY_CENTRE);
+                        entries.add(ModBlocks.GANTRY_TOP);
+                        entries.add(ModBlocks.GANTRY_VERTICAL);
+                        entries.add(ModBlocks.GANTRY_HORIZONTAL_END);
 
 
                     }).build());

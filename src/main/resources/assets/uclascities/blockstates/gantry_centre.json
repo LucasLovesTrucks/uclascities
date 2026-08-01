@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "uclascities:block/gantry_centre", "y": 90 },
+    "facing=east":  { "model": "uclascities:block/gantry_centre", "y": 180 },
+    "facing=south": { "model": "uclascities:block/gantry_centre", "y": 270 },
+    "facing=west":  { "model": "uclascities:block/gantry_centre" }
+  }
+}

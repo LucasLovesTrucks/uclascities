@@ -3,6 +3,10 @@
 
   "block.uclascities.footpath": "Footpath",
   "block.uclascities.cracked_footpath": "Cracked Footpath",
+  "block.uclascities.gantry_top": "Gantry (Top)",
+  "block.uclascities.gantry_vertical": "Gantry (Vertical)",
+  "block.uclascities.gantry_centre": "Gantry (Centre)",
+  "block.uclascities.gantry_horizontal_end": "Gantry (Horizontal End)",
 
   "itemgroup.city": "Uclas' City Mod"
 }
