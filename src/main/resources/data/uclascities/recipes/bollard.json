@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "tag": "minecraft:walls"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "uclascities:bollard"
+  }
+}

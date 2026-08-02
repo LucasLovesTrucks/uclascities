@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "uclascities:gantry_centre"
+  },
+  "result": "uclascities:gantry_vertical"
+}

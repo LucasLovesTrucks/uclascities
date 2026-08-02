@@ -7,6 +7,7 @@
   "block.uclascities.gantry_vertical": "Gantry (Vertical)",
   "block.uclascities.gantry_centre": "Gantry (Centre)",
   "block.uclascities.gantry_horizontal_end": "Gantry (Horizontal End)",
+  "block.uclascities.bollard": "Bollard",
 
   "itemgroup.city": "Uclas' City Mod"
 }

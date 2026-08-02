@@ -27,6 +27,8 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.STONE).nonOpaque()));
     public static final Block GANTRY_HORIZONTAL_END = registerBlock("gantry_horizontal_end",
             new GantryCentreBlock(FabricBlockSettings.copyOf(Blocks.STONE).nonOpaque()));
+    public static final Block BOLLARD = registerBlock("bollard",
+            new BollardBlock(FabricBlockSettings.copyOf(Blocks.STONE)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

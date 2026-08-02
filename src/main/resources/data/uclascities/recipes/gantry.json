@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    " # ",
+    "###"
+  ],
+  "key":{
+    "#": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "uclascities:gantry_centre"
+  }
+}
