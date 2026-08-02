@@ -23,6 +23,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.GANTRY_TOP);
                         entries.add(ModBlocks.GANTRY_VERTICAL);
                         entries.add(ModBlocks.GANTRY_HORIZONTAL_END);
+                        entries.add(ModBlocks.ROAD_SIGN_POLE);
+                        entries.add(ModBlocks.SCHOOL_ZONE_SIGN);
 
 
                     }).build());

@@ -1,4 +1,5 @@
 {
+
   "item.uclascities.logo": "Mod Logo",
 
   "block.uclascities.footpath": "Footpath",
@@ -8,6 +9,8 @@
   "block.uclascities.gantry_centre": "Gantry (Centre)",
   "block.uclascities.gantry_horizontal_end": "Gantry (Horizontal End)",
   "block.uclascities.bollard": "Bollard",
+  "block.uclascities.road_sign_pole": "Road Sign Pole",
+  "block.uclascities.school_zone_sign": "School Zone Sign",
 
   "itemgroup.city": "Uclas' City Mod"
 }

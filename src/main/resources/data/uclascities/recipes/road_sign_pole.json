@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key":{
+    "#": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "uclascities:road_sign_pole"
+  }
+}

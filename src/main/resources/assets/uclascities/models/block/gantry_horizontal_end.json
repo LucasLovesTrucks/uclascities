@@ -1,10 +1,11 @@
 {
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
+	"parent": "block/block",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "uclascities:block/gantry_horizontal_end",
-		"particle": "block/gantry_horizontal_end"
+		"particle": "uclascities:block/gantry_centre"
 	},
 	"elements": [
 		{

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "YYI",
+    "WRI",
+    "|| "
+  ],
+  "key":{
+    "|": {
+      "item": "uclascities:road_sign_pole"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "uclascities:school_zone_sign"
+  }
+}
